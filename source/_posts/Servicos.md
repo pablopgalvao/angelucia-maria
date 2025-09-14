@@ -1,8 +1,9 @@
 title: Serviços
-date: 2025-09-13 16:26:20
+author: Pablo Galvão
+date: 2025-09-14 00:38:09
+tags:
 ---
-<div style="background-color:#f2efce;, #000428); 
-            padding:40px;">
+<div style="background-color:#d6bf93; padding:40px; ">
 
 # 💼 Serviços
 

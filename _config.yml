@@ -10,8 +10,8 @@ admin:
 
 # Site
 title: Angelucia Maria
-subtitle: ''
-description: ''
+subtitle: 'Auxiliar Fiscal ll | Consultoria Tributária e Perícia | Análise Financeira e Captação de Recursos'
+description: 'Profissional com experiência na área fiscal, atuando no suporte à apuração e escrituração de tributos diretos e indiretos, entrega de obrigações acessórias e análise de documentos fiscais. Conhecimento em legislação tributária e COMPETE, retenções na fonte (PIS, COFINS, CSLL, IRRF, ISS) e conferência de SPED Fiscal e Contribuições. Habilidade no controle de notas fiscais, classificação fiscal de produtos e atendimento a auditorias e fiscalizações. Proativa, organizada e com forte capacidade analítica, buscando sempre otimizar processos e garantir a conformidade fiscal das operações empresariais.'
 keywords: contabilidade
 author: Pablo Galvão
 language: pt
@@ -19,7 +19,7 @@ timezone: 'America/Sao_Paulo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://pablopgalvao.github.io
+url: https://pablopgalvao.github.io/angelucia-maria/
 root: /angelucia-maria/
 permalink: ':day/:month/:year/:title/'
 permalink_defaults:
@@ -112,3 +112,5 @@ deploy:
   repo: https://github.com/pablopgalvao/angelucia-maria.git
   branch: gh-pages
   message: "Atualização do site {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+default_cover: https://api.ixiaowai.cn/gqapi/gqapi.php

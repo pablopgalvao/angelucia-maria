@@ -1,5 +1,7 @@
 title: Sobre
-date: 2025-09-13 16:24:25
+author: Pablo Galvão
+date: 2025-09-14 00:36:31
+tags:
 ---
 <div style="background-color:#f2efce; padding:40px; border-radius:0px;">
 
